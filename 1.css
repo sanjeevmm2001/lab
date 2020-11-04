@@ -13,10 +13,8 @@ h1,h2{
 	text-align: center;
 }
 img{
-	height: 80%;
+	
 	width: 50%;
-	display: block;
-	margin: auto;
 	border: 5px groove #000;
 
 }
